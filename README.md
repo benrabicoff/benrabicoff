@@ -1,6 +1,6 @@
 # Hi, I'm Ben 👋
 
-I'm a [husband](https://lindsayrabicoff.com), [father](https://keeganrabicoff.com), [advisor](https://benrabicoff.com), and [product designer](https://squarespace.com).
+I'm a [husband](https://lindsayrabicoff.com), [father](https://keeganrabicoff.com), [advisor](https://benrabicoff.com), and [product designer](https://befamily.com).
 
 <!--
 **benrabicoff/benrabicoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
