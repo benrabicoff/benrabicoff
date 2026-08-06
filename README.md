@@ -51,7 +51,7 @@ My experience includes established product organizations, startups, acquisitions
 ## Elsewhere
 
 - [Website](https://benrabicoff.com)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](https://linkedin.com/in/benrabicoff)
 
 
 <!--
