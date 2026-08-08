@@ -14,9 +14,7 @@ Building the product directly has shaped how I think about design. Good decision
 
 ## Background
 
-Previously, I worked at Squarespace and LifeLock.
-
-My experience includes established product organizations, startups, acquisitions, and independently built products. That range has made me comfortable moving between strategic questions and detailed implementation work.
+Previously, I worked at Squarespace and LifeLock, and have consulted with both smaller companies and established brands. My experience spans startups, acquisitions, mature product organizations, and independently built products—giving me the range to move comfortably between product strategy, design, and hands-on implementation.
 
 ## Elsewhere
 
